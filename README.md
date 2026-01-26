@@ -2,7 +2,7 @@
 B.Tech CSE student passionate about coding, web development, and cloud technologies.  
 I love building projects that solve problems and learning new tools every day.  
 
-## Skills
+## 🚀 Skills
 - Programming: C, C++, Java, Python | Web Development: HTML, CSS, JavaScript | Cloud: AWS basics  
 
 ## 📂 Projects
