@@ -1,4 +1,4 @@
-# Hi, I'm Deepthiii 👋
+# Hi, I'm Deepthii 👋
 B.Tech CSE student passionate about coding, web development, and cloud technologies.  
 I love building projects that solve problems and learning new tools every day.  
 
