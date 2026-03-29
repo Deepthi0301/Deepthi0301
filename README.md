@@ -3,7 +3,7 @@ B.Tech CSE student passionate about coding, web development, and cloud technolog
 I love building projects that solve problems and learning new tools every day.  
 
 ## 🚀 Skills
-- Programming: C, C++, Java, Python | Web Development: HTML, CSS, JavaScript | Cloud: AWS basics  
+- Programming: C, C++, Java, Python | Web Development: HTML, CSS, JavaScript | Cloud: AWS basics | Servicenow: CSA Certified
 
 ## 📂 Projects
 - Smart Energy Saver – A smart project to monitor and reduce electricity consumption, with my ECE friend(In Progress) 
