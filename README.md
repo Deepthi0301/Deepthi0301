@@ -3,7 +3,7 @@ B.Tech CSE student passionate about coding, web development, and cloud technolog
 I love building projects that solve problems and learning new tools every day.  
 
 ## 🚀 Skills
-- Servicenow: CSA Certified | Programming: C, C++, Java, Python | Web Development: HTML, CSS, JavaScript | Cloud: AWS basics 
+- Servicenow: CSA  and CAD Certified | Programming: C, C++, Java, Python | Web Development: HTML, CSS, JavaScript | Cloud: AWS basics 
 
 ## 📂 Projects
 - Family Expenditure(Srevicenow) - It's a simple family expenditure table in which it displays our daily expenses and monthly in total.
