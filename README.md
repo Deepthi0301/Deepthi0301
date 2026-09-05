@@ -6,6 +6,7 @@ I love building projects that solve problems and learning new tools every day.
 - Servicenow: CSA  and CAD Certified | Programming: C, C++, Java, Python | Web Development: HTML, CSS, JavaScript | Cloud: AWS basics 
 
 ## 📂 Projects
+- Space-Travel-Request-and-Management - A ServiceNow-based application that streamlines space travel requests and mission management through workflow automation, notifications, and dashboards.
 - Family Expenditure(Srevicenow) - It's a simple family expenditure table in which it displays our daily expenses and monthly in total.
 - Smart Energy Saver – A smart project to monitor and reduce electricity consumption, with my ECE friend(In Progress) 
 - College Clone Website – Full functional college website clone  
