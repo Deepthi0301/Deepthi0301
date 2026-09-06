@@ -44,6 +44,13 @@ Currently, I'm focused on building projects, strengthening my ServiceNow skills,
 * EFS
 * S3
 
+### AI & Generative AI
+* Prompt Engineering 
+* OpenAI API 
+* Generative AI 
+* AI-assisted Development 
+* Lovable
+
 ---
 
 ## 🚀 Featured Projects
@@ -104,7 +111,7 @@ Key Contributions:
 
 Technologies Used: React.js, Tailwind CSS, Supabase, OpenAI API, Lovable
 
-🔗 Live Project: PrepPilot AI — Practice. Improve. Get Interview Ready.
+🔗 Live Project: [PrepPilot AI — Practice. Improve. Get Interview Ready.](https://jdprepai.lovable.app/)
 
 💡 Combining Generative AI and prompt engineering to create a personalized interview preparation experience.
 
@@ -125,7 +132,7 @@ Key Contributions:
 
 Technologies Used: Lovable, Generative AI
 
-🔗 Live Project: NayePankh Foundation — Volunteer, Donate, Change Lives
+🔗 Live Project: [NayePankh Foundation — Volunteer, Donate, Change Lives](https://wings-of-hope-deepthi.lovable.app/)
 
 🌍 Using Generative AI and no-code development to build an engaging digital presence for a social-impact organization.
 
