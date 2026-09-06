@@ -44,7 +44,7 @@ Currently, I'm focused on building projects, strengthening my ServiceNow skills,
 * EFS
 * S3
 
-### AI & Generative AI
+### 🤖AI & Generative AI
 * Prompt Engineering 
 * OpenAI API 
 * Generative AI 
@@ -75,7 +75,7 @@ A simple ServiceNow-based expense management application that allows family memb
 
 ---
 
-☁️ AWS-Based Photo Gallery Web Application
+### ☁️ AWS-Based Photo Gallery Web Application
 
 AWS | EC2 | S3 | RDS | IAM | VPC
 
@@ -96,7 +96,7 @@ Technologies Used: AWS EC2, S3, RDS, IAM, VPC
 
 ---
 
-🤖 PrepPilot AI – AI Communication & Mock Interview Platform
+### 🤖 PrepPilot AI – AI Communication & Mock Interview Platform
 
 React.js | Tailwind CSS | Supabase | OpenAI API | Lovable
 
@@ -117,7 +117,7 @@ Technologies Used: React.js, Tailwind CSS, Supabase, OpenAI API, Lovable
 
 ---
 
-🌱 NayePankh Foundation Promotional Website
+### 🌱 NayePankh Foundation Promotional Website
 
 Lovable | Generative AI
 
