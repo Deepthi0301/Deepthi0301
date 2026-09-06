@@ -68,6 +68,69 @@ A simple ServiceNow-based expense management application that allows family memb
 
 ---
 
+☁️ AWS-Based Photo Gallery Web Application
+
+AWS | EC2 | S3 | RDS | IAM | VPC
+
+A cloud-based photo gallery application designed and deployed using AWS services.
+
+Key Features:
+
+📤 Image upload functionality
+🗂️ Category-based image organization
+📥 Image download functionality
+☁️ Cloud-based storage and deployment
+🔐 AWS IAM-based access management
+🌐 VPC-based cloud infrastructure
+
+Technologies Used: AWS EC2, S3, RDS, IAM, VPC
+
+☁️ A hands-on project demonstrating cloud deployment, storage, networking, and access management using AWS.
+
+---
+
+🤖 PrepPilot AI – AI Communication & Mock Interview Platform
+
+React.js | Tailwind CSS | Supabase | OpenAI API | Lovable
+
+An AI-powered interview preparation platform designed to help users practice interviews, improve communication, and prepare for real-world interview scenarios.
+
+Key Contributions:
+
+🤖 Designed and tested prompts for interview question generation and answer enhancement.
+🧠 Evaluated AI-generated responses and refined prompts to improve output quality.
+🎯 Used OpenAI APIs to create personalized mock interview experiences.
+💬 Designed features focused on interview practice and communication improvement.
+
+Technologies Used: React.js, Tailwind CSS, Supabase, OpenAI API, Lovable
+
+🔗 Live Project: PrepPilot AI — Practice. Improve. Get Interview Ready.
+
+💡 Combining Generative AI and prompt engineering to create a personalized interview preparation experience.
+
+---
+
+🌱 NayePankh Foundation Promotional Website
+
+Lovable | Generative AI
+
+A promotional website developed for NayePankh Foundation using AI-assisted no-code development to create an interactive digital presence for the organization.
+
+Key Contributions:
+
+🌐 Developed a promotional website showcasing the NGO's mission and initiatives.
+💝 Presented donation programs and volunteer opportunities through an interactive interface.
+✨ Crafted and optimized AI prompts to generate website content.
+📈 Refined AI-generated content to improve clarity and user engagement.
+
+Technologies Used: Lovable, Generative AI
+
+🔗 Live Project: NayePankh Foundation — Volunteer, Donate, Change Lives
+
+🌍 Using Generative AI and no-code development to build an engaging digital presence for a social-impact organization.
+
+---
+
 ### 🏫 College Clone Website
 
 **HTML | CSS | JavaScript**
